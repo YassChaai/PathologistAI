@@ -1,0 +1,7 @@
+patient_id,pN_stage,label,center_id
+patient_075,pN1,1,3
+patient_072,pN1,1,3
+patient_083,pN0,0,4
+patient_098,pN0,0,4
+patient_085,pN0,0,4
+patient_082,pN0,0,4

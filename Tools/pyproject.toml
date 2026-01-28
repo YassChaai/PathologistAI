@@ -1,0 +1,22 @@
+[project]
+name = "rendu"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "awscli>=1.44.24",
+    "ipykernel>=7.1.0",
+    "lxml>=6.0.2",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.1",
+    "openslide-bin>=4.0.0.11",
+    "openslide-python>=1.4.3",
+    "pandas>=2.3.3",
+    "pillow>=12.1.0",
+    "seaborn>=0.13.2",
+    "shapely>=2.1.2",
+    "torch>=2.9.1",
+    "torchvision>=0.24.1",
+    "tqdm>=4.67.1",
+]

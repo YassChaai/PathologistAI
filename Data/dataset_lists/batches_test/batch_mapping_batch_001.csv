@@ -1,0 +1,4 @@
+patient_id,pN_stage,label,center_id,is_ood
+patient_119,pN2,1,0,0
+patient_122,pN1,1,1,0
+patient_125,pN0,0,1,0
